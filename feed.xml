@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Careshots</title>
+  <link>__FEED_URL__</link>
+  <description>Your daily dose of healthcare news: 3 to 5 of the biggest stories in biotech, pharma, and health policy in about 15 minutes, tboy-style. Hosted by Alex and Jordan.
+
+AI Generated</description>
+  <language>en</language>
+  <copyright>© 2026 Careshots</copyright>
+  <managingEditor>parthmittal0412@gmail.com (Careshots)</managingEditor>
+  <itunes:author>Careshots</itunes:author>
+  <itunes:owner>
+    <itunes:name>Careshots</itunes:name>
+    <itunes:email>parthmittal0412@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <itunes:category text="Health &amp; Fitness">
+    <itunes:category text="Medicine"/>
+  </itunes:category>
+  <itunes:category text="News">
+    <itunes:category text="Daily News"/>
+  </itunes:category>
+  <itunes:image href="__COVER_URL__"/>
+  <image>
+    <url>__COVER_URL__</url>
+    <title>Careshots</title>
+    <link>__FEED_URL__</link>
+  </image>
+  <atom:link href="__FEED_URL__" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>Morning Rounds — Episode 2: The Diet Pill Wins in Europe</title>
+    <description>Alex and Jordan break down Eli Lilly&apos;s oral weight-loss drug winning backing in Europe, AstraZeneca&apos;s $1.46B AI drug discovery bet with insitro, and the $738M ACA subsidy crackdown — plus a biotech funding lightning round.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1378804578642569/4692d077-df77-4239-b0c8-f2e1abedb51d/ep-9e5a5558-2b9b-4fbb-b546-218b21ec0d8f.mp3" length="6170341" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-9e5a5558-2b9b-4fbb-b546-218b21ec0d8f</guid>
+    <pubDate>Sat, 17 Oct 2026 03:40:46 +0000</pubDate>
+    <itunes:duration>771</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>2</itunes:episode>
+  </item>
+</channel>
+</rss>
