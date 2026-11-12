@@ -3,7 +3,7 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Careshots</title>
-  <link>__FEED_URL__</link>
+  <link>https://parthmittal0412.github.io/careshots-feed/feed.xml</link>
   <description>Your daily dose of healthcare news: 3 to 5 of the biggest stories in biotech, pharma, and health policy in about 15 minutes, tboy-style. Hosted by Alex and Jordan.
 
 AI Generated</description>
@@ -23,13 +23,13 @@ AI Generated</description>
   <itunes:category text="News">
     <itunes:category text="Daily News"/>
   </itunes:category>
-  <itunes:image href="__COVER_URL__"/>
+  <itunes:image href="https://parthmittal0412.github.io/careshots-feed/cover.png"/>
   <image>
-    <url>__COVER_URL__</url>
+    <url>https://parthmittal0412.github.io/careshots-feed/cover.png</url>
     <title>Careshots</title>
-    <link>__FEED_URL__</link>
+    <link>https://parthmittal0412.github.io/careshots-feed/feed.xml</link>
   </image>
-  <atom:link href="__FEED_URL__" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://parthmittal0412.github.io/careshots-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>Morning Rounds — Episode 2: The Diet Pill Wins in Europe</title>
     <description>Alex and Jordan break down Eli Lilly&apos;s oral weight-loss drug winning backing in Europe, AstraZeneca&apos;s $1.46B AI drug discovery bet with insitro, and the $738M ACA subsidy crackdown — plus a biotech funding lightning round.
