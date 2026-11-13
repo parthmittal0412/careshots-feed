@@ -50,17 +50,5 @@ AI Generated</description>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:episode>29</itunes:episode>
   </item>
-  <item>
-    <title>Morning Rounds — Episode 2: The Diet Pill Wins in Europe</title>
-    <description>Alex and Jordan break down Eli Lilly&apos;s oral weight-loss drug winning backing in Europe, AstraZeneca&apos;s $1.46B AI drug discovery bet with insitro, and the $738M ACA subsidy crackdown — plus a biotech funding lightning round.
-
-AI Generated</description>
-    <enclosure url="https://muse.ai/podcasts/media/1378804578642569/4692d077-df77-4239-b0c8-f2e1abedb51d/ep-9e5a5558-2b9b-4fbb-b546-218b21ec0d8f.mp3" length="6170341" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-9e5a5558-2b9b-4fbb-b546-218b21ec0d8f</guid>
-    <pubDate>Sat, 17 Oct 2026 03:40:46 +0000</pubDate>
-    <itunes:duration>771</itunes:duration>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:episode>2</itunes:episode>
-  </item>
 </channel>
 </rss>
