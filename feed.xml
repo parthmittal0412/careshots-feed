@@ -31,6 +31,16 @@ AI Generated</description>
   </image>
   <atom:link href="https://parthmittal0412.github.io/careshots-feed/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
+    <title>Careshots — Episode 36: Sanofi's Brain-First Rare-Disease Win, Merck's $2.7B Write-Off, and the FDA's Empty Chair</title>
+    <description>Alex and Jordan on Sanofi's FDA win for Infilbray in type 3 Gaucher disease, Merck shutting down its $2.7B BTK program, and the White House pulling the FDA commissioner nomination.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1378804578642569/4692d077-df77-4239-b0c8-f2e1abedb51d/ep-d6839e53-1a20-4596-86e4-309ceca55c62.mp3" length="6188005" type="audio/mpeg"/>
+    <guid isPermaLink="false">careshots-episode-36-sanofis-brain-first-rare-disease-win-mercks-27b-write-off-and-the-fdas-empty-chair-2026-11-19</guid>
+    <pubDate>Thu, 19 Nov 2026 12:11:00 +0000</pubDate>
+    <itunes:duration>773</itunes:duration>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:episode>36</itunes:episode>
+  </item>
+  <item>
     <title>Careshots — Episode 35: GSK's Lung-Cancer Win, a Rare-Disease First, and Medicare's $2.5B Save</title>
     <description>Alex and Jordan on GSK's FDA win for Nelkarmi in ALK-positive lung cancer, Beren's first survival-extending therapy for Niemann-Pick type C, and Medicare's record $2.5B in shared-savings savings.</description>
     <enclosure url="https://muse.ai/podcasts/media/1378804578642569/4692d077-df77-4239-b0c8-f2e1abedb51d/ep-886887f0-f616-4144-8b6e-7d30fbacc0b5.mp3" length="6098533" type="audio/mpeg"/>
